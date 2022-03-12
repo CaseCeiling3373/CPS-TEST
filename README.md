@@ -1,2 +1,2 @@
 # CPS-TEST
-abcdefg hijklmnop qrstuvwxyz
+https://ea-is-overpriced.github.io/CPS-TEST/
